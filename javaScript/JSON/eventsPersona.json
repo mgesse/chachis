@@ -1,0 +1,33 @@
+{"CEF":
+	[
+		{"ID":"CEF_1","text":"Soy más mayor que tu, he vivido mucho ya, no tengo color..."},
+		{"ID":"CEF_2","text":"Mi marido se ha marchado a Ciudad Eúros alegando que las conchas que se pescan son mejores, que raro...."},
+		{"ID":"CEF_3","text":"Es estraño, algunos Chachimolongos atacan a la gente :(, hay que saber que ha sucedido."},		
+		{"ID":"CEF_4","text":"Piensa en las efectividades de cada Chachi, y úsalos con cabeza, de lo contrario terminarás sin mágia y serás derrotado!"},
+		{"ID":"CEF_5","text":"He oido decir en cincoteles que los barcos son movidos por muchos peces, es increíble!!! :o ."},
+		{"ID":"CEF_6","text":"Mi marido se come los mocos con pan."},
+		{"ID":"CEF_7","text":"Vigila tus puntos de salud, con los recortes en sanidad ya no puedo curarte."},	
+		{"ID":"CEF_8","text":"El mar! Si las burbujas son aire, puedo respirarlas para estar siempre debajo del agua, no lo pensaste nunca?"}
+	],
+	
+"BHO":
+	[
+		{"ID":"BHO_1","text":"Compré una keka en EliT Dolls y era preciosa! Te la recomiendo! ^^"},
+		{"ID":"BHO_2","text":"Llevo días perdida por aquí, quiero que venga a rescatarme mi principe azul, buaaaaa buaaaa!"},
+		{"ID":"BHO_3","text":"Soy enfermera. Quieres que te haga una revisión completa? Puedo hacer rejuvenecer tus fuerzas ;)"},
+		{"ID":"BHO_4","text":"Es frustrante ir a un lugar para nada, verdad? Ale, ya puedes volver para arriba y explorar bien el río."}
+	],
+	
+"LTH":
+	[
+		{"ID":"LTH_1","text":"Me encanta nadar, lástima que no sea acuatica, por que lo haría todo en el agua :( "},
+		{"ID":"LTH_2","text":"OMG! O.O Estas viendo lo que hacen esos dos en la otra banda de la orilla?? No me lo puedo creer!"},
+		{"ID":"LTH_3","text":"No se si lo sabías, pero soy el listo de turno, ñañañañááá!! Este lago representa la igualdad!"},
+		{"ID":"LTH_4","text":"Si pasas por un camino con forma de U, es que te gusta perder el tiempo! <3 "},
+		{"ID":"LTH_5","text":"Como? No te he entendido bien, quieres que me mueva? Mover de sitio estas grasas tiene un precio y no creo que puedas con él, que te has creído! Humm! >.<"},
+		{"ID":"LTH_6","text":"Qué miras? Es mi árbol! ¡Lárgate!"},
+		{"ID":"LTH_7","text":"¡Aaachím! Jolines con la alergia, pero es que las flores son tan bonitas *O* "},
+		{"ID":"LTH_8","text":"Ei chaval, he tenido una revelación de la Diosa Hylia, me ha dicho que jamás saldremos del lago por esta zona!"},
+		{"ID":"LTH_9","text":"Has notado eso! O.O Ciudad Noto está mas adelante, pero hay un muro invisible y no se puede cruzar, que horror!! ;_; "}
+	]
+}
